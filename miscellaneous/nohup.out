@@ -1,0 +1,55 @@
+Gtk-Message: 10:32:35.997: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:32:36.005: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:33:21.222: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:33:21.231: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:37:06.600: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:37:06.606: Failed to load module "canberra-gtk-module"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Gtk-Message: 10:39:44.657: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:39:44.663: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:40:25.827: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:40:25.835: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:40:41.198: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:40:41.210: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:41:40.162: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:41:40.169: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:42:17.794: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:42:17.805: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:46:41.103: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:46:41.113: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:30:06.954: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:30:06.967: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:32:59.389: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:32:59.408: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:35:40.230: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:35:40.238: Failed to load module "canberra-gtk-module"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/cups/doc-root /usr/share/cups/doc-root none bind,ro 0 0): cannot create directory "/usr/share/cups/doc-root": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot create directory "/usr/share/gimp/2.0": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot create directory "/usr/share/libreoffice/help": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+Gtk-Message: 14:41:42.783: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:41:42.798: Failed to load module "canberra-gtk-module"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+[2022-10-26T11:41:52Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping newtab
+Gtk-Message: 14:45:06.108: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:45:06.115: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Gtk-Message: 15:08:56.469: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:08:56.482: Failed to load module "canberra-gtk-module"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
